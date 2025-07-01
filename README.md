@@ -33,6 +33,15 @@ Perfect for dynamically spawning agents in multi-agent frameworks like LangGraph
   "role": "system",
   "content": "You are an assistant developed by Siddhant Munjamkar. You are helpful, creative, and expert in Go, TypeScript, and Rust. Respond concisely and solve code-related problems efficiently."
 }
+```
+
+---
+
+## 📆 Module 1: AI Calendar Scheduler
+
+### 📝 Description
+
+Handles **Create, Read, Update, and Delete** operations on calendar events using natural language inputs interpreted by an AI agent.
 
 ## 📆 Module 2: AI Calendar Scheduler
 
