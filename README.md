@@ -37,13 +37,9 @@ Perfect for dynamically spawning agents in multi-agent frameworks like LangGraph
 
 ---
 
-## 📆 Module 1: AI Calendar Scheduler
 
-### 📝 Description
 
-Handles **Create, Read, Update, and Delete** operations on calendar events using natural language inputs interpreted by an AI agent.
-
-## 📆 Module 2: AI Calendar Scheduler
+## 📌 AI Calendar Scheduler
 
 ### 📝 Description
 
