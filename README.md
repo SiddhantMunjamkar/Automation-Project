@@ -864,9 +864,7 @@ For issues and feature requests:
 3. Review API documentation for integrated services
 4. Enable debug logging for detailed error information
 
-## License
 
-This project is provided as-is for automation and research purposes.
 
 ## Contributing
 
@@ -878,5 +876,3 @@ Contributions are welcome. Please ensure workflows include:
 
 ---
 
-**Last Updated:** May 14, 2026
-**Repository:** AI Automation Suite - n8n Workflow Collection
